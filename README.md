@@ -15,10 +15,10 @@ Each algorithm is implemented from scratch in Python, with a focus on understand
 
 ## Contents
 
-- `SimpleLinearRegression.ipynb`: Demonstrates the implementation of simple linear regression. Used the'Salary_dataset.csv' dataset to predicted salary given the years of experience.
-- `MultipleLinearRegression.ipynb`: Contains the implementation and evaluation of multiple linear regression. Used the 'Student_Performance.csv' dataset to predict Performance Index given features like Hours Studied,	Previous Scores, to name afew. 
-- `BinaryLogisticRegression.ipynb`: Showcases binary logistic regression implementation. Used the 'fake_bills.csv' to predict if the bill is genuine or not given features like diagonal,	height_left, to name afew.
-- `BinaryLogisticRegressionWithRegularization.ipynb`: Implemented regularization to my binary logistic regression implementation. Used the 'fake_bills.csv'. 
+- `SimpleLinearRegression.ipynb`: Demonstrates the implementation of simple linear regression. Uses the'Salary_dataset.csv' dataset to predicted salary given the years of experience.
+- `MultipleLinearRegression.ipynb`: Contains the implementation and evaluation of multiple linear regression. Uses the 'Student_Performance.csv' dataset to predict Performance Index given features like Hours Studied,	Previous Scores, to name a few. 
+- `BinaryLogisticRegression.ipynb`: Showcases binary logistic regression implementation. Uses the 'fake_bills.csv' to predict if the bill is genuine or not given features like diagonal,	height_left, to name a few.
+- `BinaryLogisticRegressionWithRegularization.ipynb`: Implemented regularization to my binary logistic regression implementation. Uses the 'fake_bills.csv'. 
 
 ## Implementation Highlights
 
